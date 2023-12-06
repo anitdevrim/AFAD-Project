@@ -5,6 +5,6 @@ def main():
     page = ScrapeData()
     page.get_url()
     page.get_all()
-    #page.get_live()
+    page.get_live()
 
 main()
