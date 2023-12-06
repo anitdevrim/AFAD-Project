@@ -1,6 +1,6 @@
 # AFAD EARTHQUAKE DATA SCRAPER
 
-This project aims to scrape all accesible earthquake data and check whether earthquake happened for a given time interval.
+This project aims to scrape all accesible earthquake data and check whether earthquake happened in a given time interval.
 
 # Operation
 
