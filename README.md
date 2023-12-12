@@ -4,7 +4,7 @@ This project aims to scrape all accesible earthquake data and check whether eart
 
 # Operation
 
-In this project, website scraped is https://deprem.afad.gov.tr/last-earthquakes .
+In this project, scraped website is https://deprem.afad.gov.tr/last-earthquakes .
 
 After running the script, program will start scraping earthquake data which happened in Last 30 Days.
 
